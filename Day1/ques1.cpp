@@ -8,7 +8,7 @@ int main()
     for (int i=1; i<= n; i++)
     {
         sum += i;
-    }
-    cout << "The sum of first N natural numbers is: " << sum;
+    }  
+    cout   << "The sum of first N natural numbers is: " << sum;
     return 0;
 }

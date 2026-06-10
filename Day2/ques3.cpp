@@ -10,6 +10,7 @@ int main(){
         product *= digit;
         num /= 10;
     }
+    
     cout << "Product of digit = " << product << endl;
     return 0;
     }

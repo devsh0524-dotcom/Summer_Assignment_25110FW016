@@ -8,7 +8,8 @@ int main()
     While (num != 0){
         sum = sum + (num % 10);
         num = num /10;
-    }
+    }  
+    
  cout << "Sum of digits = " << sum << endl;
 return 0;
 }

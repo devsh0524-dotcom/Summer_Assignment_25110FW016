@@ -9,6 +9,6 @@ int main(){
         reverse = reverse * 10 + remainder;
         num = num / 10;
     }
-    cout << "Reversed number = " << reverse << endl;
+    cout   << "Reversed number = " << reverse << endl;
 return 0;
 }
